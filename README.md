@@ -1,2 +1,2 @@
 # Zomato_portfolio_SQL_Project
-This is a SQL portfolio Project containing zomato data . I have done some analysis based on the database that i have created .
+This SQL portfolio project delves into the analysis of Zomato data, aiming to extract meaningful insights and trends from the dataset. 
